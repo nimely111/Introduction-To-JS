@@ -7,7 +7,7 @@ const myInfo = {
     myCountry: 'Liberia',
 }
 
-myScreenOutput.innerHTML = myInfo.myFirstName;
+myScreenOutput.innerHTML = myInfo.myFirstName + ' ' + myInfo.myMiddleName + ' ' + myInfo.myLasttName + ' ' + myInfo.myHeight + ' ' + myInfo.myCountry;
 
 
 console.log(myInfo);
