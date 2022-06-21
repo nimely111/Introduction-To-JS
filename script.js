@@ -3,8 +3,7 @@ const myInfo = {
     myMiddleName: 'Emmanuel Happy',
     myLasttName: 'Nimely',
     myHeight: 5.2,
-    Country: 'Liberia',
-
-
-
+    myCountry: 'Liberia',
 }
+
+console.log(myInfo);
