@@ -2,7 +2,7 @@ const myInfo = {
     myFirstName: 'Samuel',
     myMiddleName: 'Emmanuel Happy',
     myLasttName: 'Nimely',
-    myHeight: 2.5,
+    myHeight: 5.2,
     Country: 'Liberia',
 
 
