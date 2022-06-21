@@ -1,4 +1,4 @@
-const myScreenOutput = document.querySelector('.result');
+const myScreenOutput = document.getElementById('result');
 const myInfo = {
     myFirstName: 'Samuel',
     myMiddleName: 'Emmanuel Happy',
